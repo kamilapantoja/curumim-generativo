@@ -8,7 +8,7 @@ O **Curumim Generativo** será um agente autônomo inteligente, capaz de tomar d
 
 > 🎓 Este projeto está sendo desenvolvido como parte do curso de **Agentes Autônomos com IA Generativa**, oferecido pela **I2A2 — Instituto de Inteligência Artificial Aplicada**.
 
-## 👩‍💻👨‍💻 Criadores
+## ✨ Criadores
 
 Este projeto está sendo criado e mantido por:
 
